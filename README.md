@@ -1,0 +1,1 @@
+# rocketmqserverDemo 以jar包方式封装rocketmq的封装类提供项目demo，真正封装服务方消费方和打jar包用的是mqconfigdemo和mqconfig下的类
